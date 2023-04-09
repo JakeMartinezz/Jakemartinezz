@@ -34,13 +34,15 @@ me.say_hi()
 </pre>
 
 <h2> ~ 📇 Conhecimento 📇 ~</h2>
-<img src=https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white> 
-<img src="https://img.shields.io/badge/Linux-121011?style=for-the-badge&logo=linux&logoColor=white"/> 
-<img src="https://img.shields.io/badge/HTML-121011?style=for-the-badge&logo=html5&logoColor=white"/> 
-<img src="https://img.shields.io/badge/CSS-121011?style=for-the-badge&logo=css3&logoColor=white"/><br>
- <img src="https://img.shields.io/badge/WINDOWS-121011?style=for-the-badge&logo=windows&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JAVASCRIPT-121011?style=for-the-badge&logo=javascript&logoColor=white"/> 
-<img src="https://img.shields.io/badge/GIT-121011?style=for-the-badge&logo=git&logoColor=white"/> <br><br>
+  
+![Shell Badge](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux Badge](https://img.shields.io/badge/Linux-121011?style=for-the-badge&logo=linux&logoColor=white)
+![Html Badge](https://img.shields.io/badge/HTML-121011?style=for-the-badge&logo=html5&logoColor=white)
+![Css Badge ](https://img.shields.io/badge/CSS-121011?&style=for-the-badge&logo=css3&logoColor=white) <br>
+![Windows Badge](https://img.shields.io/badge/WINDOWS-121011?style=for-the-badge&logo=windows&logoColor=white)
+![Javascript Badge](https://img.shields.io/badge/JavaScript-121011?style=for-the-badge&logo=javascript&logoColor=white)
+![Git Badge](https://img.shields.io/badge/GIT-121011?style=for-the-badge&logo=git&logoColor=white)
+  
 <pre>
   Possuo um forte conhecimento em sistemas operacionais tanto como Windows e Linux.
  Com um profundo conhecimento de interfaces de linha de comando, administração de sistemas e scripts de shell
