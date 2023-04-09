@@ -4,22 +4,22 @@
 <div align="center">  
 <h1 align="center">~ Ola, mundo ~</h1>
 
-```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+```shell
+#!/bin/bash
 
-class SoftwareBeginner:
+name="JakeDystopia"
+role="Software Apprentice"
+languages=("en_US" "pt_br" "es_ES")
 
-def __init__(self):
-self.name = "JakeDystopia"
-self.role = "Software Apprentice"
-self.language_spoken = ["en_US", "pt_br", "es_ES"]
+message="Hi, I am $name, a $role who speaks the following languages:"
+for lang in "${languages[@]}"
+do
+message="$message\n- $lang"
+done
 
-def say_hi(self):
-print("Thanks for coming by, hope u like my work")
+zenity --info --text="$message
+Thanks for coming by, hope u like my work"
 
-me = SoftwareBeginner()
-me.say_hi()
 ```
 
 
