@@ -7,19 +7,19 @@
 ```shell
 #!/bin/bash
 
-name="JakeDystopia"
-role="Software Apprentice"
-languages=("en_US" "pt_br" "es_ES")
-code="Shell, Html, Css, and JavaScript."
+nome="JakeDystopia"
+estudante="Estudante de software"
+linguas=("en_US" "pt_br" "es_ES")
+linguagens="Shell, Html, Css, e JavaScript"
 
-message="Hi, I am $name, a $role and i mainly code in $code i also speak:"
+message="Ola, Eu sou $nome, um $estudante e eu programo em $linguagens eu falo:"
 
-for lang in "${languages[@]}"
+for linguas in "${linguas[@]}"
 do
-message="$message\n- $lang"
+message="$message\n- $linguas"
 done
 
-zenity --info --text="$message Thanks for coming by, hope u like my work"
+zenity --info --text="$message Obrigado por vir, espero que goste do meu trabalho"
 
 ```
 
