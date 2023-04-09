@@ -10,15 +10,16 @@
 name="JakeDystopia"
 role="Software Apprentice"
 languages=("en_US" "pt_br" "es_ES")
+code="Shell, Html, Css, and JavaScript."
 
-message="Hi, I am $name, a $role who speaks the following languages:"
+message="Hi, I am $name, a $role and i mainly code in $code i also speak:"
+
 for lang in "${languages[@]}"
 do
 message="$message\n- $lang"
 done
 
-zenity --info --text="$message
-Thanks for coming by, hope u like my work"
+zenity --info --text="$message Thanks for coming by, hope u like my work"
 
 ```
 
