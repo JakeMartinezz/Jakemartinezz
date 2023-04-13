@@ -9,14 +9,14 @@
 
 nome="JakeDystopia"
 estudante="Estudante de software"
-linguas=("en_US" "pt_br" "es_ES")
 linguagens="Shell, Html, Css, e JavaScript"
-
+idiomas=("en_US" "pt_br" "es_ES")
+ 
 message="Ola, Eu sou $nome, um $estudante e eu programo em $linguagens eu falo:"
 
-for linguas in "${linguas[@]}"
+for idiomas in "${idiomas[@]}"
 do
-message="$message\n- $linguas"
+message="$message\n- $idiomas"
 done
 
 zenity --info --text="$message Obrigado por vir, espero que goste do meu trabalho"
