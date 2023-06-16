@@ -71,6 +71,6 @@ zenity --info --text="$message Obrigado por vir, espero que goste do meu trabalh
   
 <h2>~ 🌑 Grafico 🌑 ~</h2>
   
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JakeDystopia&bg_color=0d1117&color=b4befe&line=7f849c&point=cdd6f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JakeDystopia&bg_color=0d1117&color=b4befe&line=7f849c&point=cdd6f4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>    
