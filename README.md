@@ -7,7 +7,7 @@
 ```shell
 #!/bin/bash
 
-nome="JakeDystopia"
+nome="Jake / Corvo"
 estudante="Estudante de software"
 linguagens="Shell, Html, Css, e JavaScript"
 idiomas=("en_US" "pt_br" "es_ES")
