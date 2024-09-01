@@ -26,7 +26,7 @@ zenity --info --text="$message Obrigado por vir, espero que goste do meu trabalh
 
 <h2> 🦊 ~ Sobre mim ~ 🦊 </h2>
 <pre>
-𝙉𝙤𝙢𝙚: Unknown
+𝙉𝙤𝙢𝙚: André
 𝙎𝙞𝙨𝙩𝙚𝙢𝙖 𝙊𝙥𝙚𝙧𝙖𝙘𝙞𝙤𝙣𝙖𝙡: OpenSuse Tumbleweed
 𝙄𝘿𝙀: Sublime-Text
 𝙂𝙤𝙨𝙩𝙤𝙨: Filmes, Series, Musicas, Jogos RPG
