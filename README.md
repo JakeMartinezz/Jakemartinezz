@@ -8,7 +8,7 @@
 #!/bin/bash
 
 nome="André"
-estudante="Estudante de software"
+estudante="Analista de Sistemas"
 linguagens="Shell, Html, Css, e JavaScript"
 idiomas=("en_US" "pt_br" "es_ES")
  
