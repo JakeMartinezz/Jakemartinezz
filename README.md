@@ -8,11 +8,11 @@
 #!/bin/bash
 
 nome="André"
-estudante="Analista de Sistemas"
+profissional="Analista de Sistemas"
 linguagens="Shell, MySQL, ASP, Python"
 idiomas=("en_US" "pt_br" "es_ES")
  
-message="Ola, Eu sou $nome, um $estudante e eu programo em $linguagens eu falo:"
+message="Ola, Eu sou $nome, um $profissional e eu programo em $linguagens eu falo:"
 
 for idiomas in "${idiomas[@]}"
 do
