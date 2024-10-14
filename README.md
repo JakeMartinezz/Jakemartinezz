@@ -24,7 +24,7 @@ zenity --info --text="$message Obrigado por vir, espero que goste do meu trabalh
 ```
 
 
-<h2> 🦊 ~ Sobre mim ~ 🦊 </h2>
+<h2> ~ Sobre mim ~ </h2>
 <pre>
 𝙉𝙤𝙢𝙚: André
 𝙎𝙞𝙨𝙩𝙚𝙢𝙖 𝙊𝙥𝙚𝙧𝙖𝙘𝙞𝙤𝙣𝙖𝙡: OpenSuse Tumbleweed
@@ -34,7 +34,7 @@ zenity --info --text="$message Obrigado por vir, espero que goste do meu trabalh
 𝙃𝙤𝙗𝙗𝙞𝙚𝙨: Jogar, Escutar Musica, Programar
 </pre>
 
-<h2> ~ 📇 Conhecimento 📇 ~</h2>
+<h2> ~ 📇 Habilidades 📇 ~</h2>
   
 ![Shell Badge](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Linux Badge](https://img.shields.io/badge/Linux-121011?style=for-the-badge&logo=linux&logoColor=white)
@@ -49,13 +49,7 @@ zenity --info --text="$message Obrigado por vir, espero que goste do meu trabalh
  Com um profundo conhecimento de interfaces de linha de comando, administração de sistemas e scripts de shell
  Desenvolvi um histórico comprovado de gerenciamento e otimização eficazes de infraestruturas baseadas em Linux.
   </pre>
-  
-<h2>🌕 ~ Spotify ~ 🌕</h2>
-</body>
-
-  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=atdredv8emt46ycqp4ilgno75&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-  
+    
 <h2> 🕙 ~ Artistas Favoritos ~ 🕑 </h2>
   <pre>
 𝙅𝙖𝙠𝙚 𝙃𝙞𝙡𝙡
