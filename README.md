@@ -9,7 +9,7 @@
 
 nome="André"
 profissional="Analista de Sistemas"
-linguagens="Shell, MySQL, ASP, Python"
+linguagens="Shell, SQL Server, JavaScrit, Python"
 idiomas=("en_US" "pt_BR" "es_ES")
  
 message="Ola, Eu sou $nome, um $profissional e eu programo em $linguagens eu falo:"
